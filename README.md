@@ -63,8 +63,7 @@ This meta-repository serves as a central hub for **Futureland BBS** and related 
 
 - All projects are public and built primarily for **Synchronet 3.x** environments.  
 - Code is written in **JavaScript (SpiderMonkey / SSJS)** unless otherwise noted.  
-- Most utilities interoperate with **FSXNet**, **FidoNet**, and the **Futureland BBS** ecosystem.
-
+- Most utilities interoperate with the **Synchronet** ecosystem and occasionally **Mystic** and **FTN style** ecosystem
 ---
 
 **© 2025 [@chairmanmow](https://github.com/chairmanmow)**  
