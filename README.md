@@ -3,7 +3,7 @@
 A curated collection of Synchronet JavaScript / SSJS modules, shells, and InterBBS utilities created and maintained by [@chairmanmow](https://github.com/chairmanmow).  
 This meta-repository serves as a central hub for **Futureland BBS** and related Synchronet projects.
 
-All of these mods are available to test on futureland.today:
+*Most* of these mods are available to test on futureland.today:
 
 `telnet futureland.today`
 `ssh -p 4022 futueland.today`
