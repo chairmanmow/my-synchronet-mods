@@ -33,7 +33,7 @@ This meta-repository serves as a central hub for **Futureland BBS** and related 
 | [**Synchronet InterBBS One Liners**](https://github.com/chairmanmow/synchronet_interbbs_one_liners) | Networked one-liner system syncing short user messages across FSXNet / FidoNet. | **Oct 2025** |
 | [**Synchronet InterBBS Last Callers**](https://github.com/chairmanmow/synchronet_interbbs_last_callers) | Displays last callers across FSXNet BBSes via the FSX_DAT echo. | **Oct 2025** |
 | [**Future Bulletins**](https://github.com/chairmanmow/future_bulletins) | Bulletin generator / viewer for Futureland and Synchronet sysops. | **Oct 2025** |
-| [**16Colors Synchronet API Viewer**](https://github.com/chairmanmow/16colorsSynchronetAPIviewer) | *For reference only* Integration with the 16Colors archive viewer via the Synchronet API. | **Sep 15 2025** |
+| [**16Colors Synchronet API Viewer**](https://github.com/chairmanmow/16colorsSynchronetAPIviewer) | *For reference only* Integration with the 16Colors archive viewer via the Synchronet API. | **Feb 2015** |
 
 ---
 
